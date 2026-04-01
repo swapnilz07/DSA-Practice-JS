@@ -15,7 +15,7 @@ const merge = function (nums1, m, nums2, n) {
   }
 };
 
-let nums1 = [1, 2, 3, 0, 0, 0];
+let nums1 = [1, 2, 3, 0, 0, 0]; // or [1,2,3]
 let nums2 = [2, 5, 6];
 merge(nums1, 3, nums2, 3);
 
